@@ -1,0 +1,305 @@
+{
+    "animales": [
+      {
+        "nombre": "León",
+        "especie": "Panthera leo",
+        "habitat": "Savannah",
+        "alimentación": "Carnívoro",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfh2mXuoIbxQwWEW_Q5fiGIJ0OUd9CXmgPsw&s",
+        "informacion_adicional": {
+          "promedio_vida": "10-14 años en la naturaleza",
+          "estado_conservacion": "Vulnerable",
+          "distribucion": "África subsahariana y algunas partes de Asia"
+        }
+      },
+      {
+        "nombre": "Elefante Africano",
+        "especie": "Loxodonta africana",
+        "habitat": "Sabana, bosques y selvas tropicales",
+        "alimentación": "Herbívoro",
+        "imagen": "https://img2.rtve.es/i/?w=1600&i=1559067810958.jpg",
+        "informacion_adicional": {
+          "promedio_vida": "60-70 años en la naturaleza",
+          "estado_conservacion": "Vulnerable",
+          "distribucion": "África subsahariana"
+        }
+      },
+      {
+        "nombre": "Tigre",
+        "especie": "Panthera tigris",
+        "habitat": "Bosques tropicales y subtropicales",
+        "alimentación": "Carnívoro",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-q-z0_OnNmzNbZSNYOsGAJMWut5DKyF5zIw&s",
+        "informacion_adicional": {
+          "promedio_vida": "10-15 años en la naturaleza",
+          "estado_conservacion": "En peligro de extinción",
+          "distribucion": "Asia"
+        }
+      },
+      {
+        "nombre": "Ballena Azul",
+        "especie": "Balaenoptera musculus",
+        "habitat": "Océanos",
+        "alimentación": "Plancton",
+        "imagen": "https://imagenes.muyinteresante.com/files/image_large/uploads/2023/07/09/64aa87c37a6d8.jpeg",
+        "informacion_adicional": {
+          "promedio_vida": "80-90 años en la naturaleza",
+          "estado_conservacion": "En peligro crítico de extinción",
+          "distribucion": "Océanos de todo el mundo"
+        }
+      },
+      {
+        "nombre": "Águila Calva",
+        "especie": "Haliaeetus leucocephalus",
+        "habitat": "Bosques cercanos al agua",
+        "alimentación": "Peces y pequeños mamíferos",
+        "imagen": "https://www.infoaguilas.com/Imagenes/dieta-del-aguila-calva.jpg",
+        "informacion_adicional": {
+          "promedio_vida": "20-30 años en la naturaleza",
+          "estado_conservacion": "Preocupación menor",
+          "distribucion": "América del Norte"
+        }
+      },
+      {
+        "nombre": "Oso Polar",
+        "especie": "Ursus maritimus",
+        "habitat": "Ártico",
+        "alimentación": "Principalmente carnívoro",
+        "imagen": "https://files.worldwildlife.org/wwfcmsprod/images/Polar_Bear_New_Hero_Image/hero_small/90x2m4x6df_polar_bear_hero.jpg",
+        "informacion_adicional": {
+          "promedio_vida": "25-30 años en la naturaleza",
+          "estado_conservacion": "Vulnerable",
+          "distribucion": "Regiones árticas"
+        }
+      },
+      {
+        "nombre": "Jirafa",
+        "especie": "Giraffa camelopardalis",
+        "habitat": "Sabanas y áreas arboladas",
+        "alimentación": "Herbívoro",
+        "imagen": "https://www.concienciaeco.com/wp-content/uploads/2014/10/jirafa.jpg",
+        "informacion_adicional": {
+          "promedio_vida": "20-25 años en la naturaleza",
+          "estado_conservacion": "Vulnerable",
+          "distribucion": "África subsahariana"
+        }
+      },
+      {
+        "nombre": "Panda Gigante",
+        "especie": "Ailuropoda melanoleuca",
+        "habitat": "Bosques de bambú",
+        "alimentación": "Principalmente herbívoro",
+        "imagen": "https://i.eldiario.com.ec/fotos-manabi-ecuador/2017/07/20170701040000_el-panda-gigante-sale-de-peligro.jpg",
+        "informacion_adicional": {
+          "promedio_vida": "20 años en la naturaleza",
+          "estado_conservacion": "Vulnerable",
+          "distribucion": "Montañas de China central"
+        }
+      },
+      {
+        "nombre": "Lobo Gris",
+        "especie": "Canis lupus",
+        "habitat": "Bosques, tundras y praderas",
+        "alimentación": "Carnívoro",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Canis_lupus_265b.jpg/800px-Canis_lupus_265b.jpg",
+        "informacion_adicional": {
+          "promedio_vida": "6-8 años en la naturaleza",
+          "estado_conservacion": "Preocupación menor",
+          "distribucion": "Norteamérica, Europa y Asia"
+        }
+      },
+      {
+        "nombre": "Tiburón Blanco",
+        "especie": "Carcharodon carcharias",
+        "habitat": "Océanos templados y tropicales",
+        "alimentación": "Carnívoro",
+        "imagen": "https://images.ecestaticos.com/_m_2KuouCnkkiWc16sEut_aGOvA=/0x0:1254x836/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff77%2F845%2F128%2Ff77845128a48abc7cec72ff810040e92.jpg",
+        "informacion_adicional": {
+          "promedio_vida": "30-40 años en la naturaleza",
+          "estado_conservacion": "Vulnerable",
+          "distribucion": "Costas de todo el mundo"
+        }
+      },
+      {
+        "nombre": "Rinoceronte Blanco",
+        "especie": "Ceratotherium simum",
+        "habitat": "Sabanas y zonas de pastizales",
+        "alimentación": "Herbívoro",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/94da924f-f5b3-4751-8cc7-fabd99637641_alta-libre-aspect-ratio_default_0.jpg",
+        "informacion_adicional": {
+          "promedio_vida": "40-50 años en la naturaleza",
+          "estado_conservacion": "Vulnerable",
+          "distribucion": "África subsahariana"
+        }
+      },
+      {
+        "nombre": "Puma",
+        "especie": "Puma concolor",
+        "habitat": "Bosques, desiertos y montañas",
+        "alimentación": "Carnívoro",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/9834553/original.jpg",
+        "informacion_adicional": {
+          "promedio_vida": "10-20 años en la naturaleza",
+          "estado_conservacion": "Preocupación menor",
+          "distribucion": "América del Norte, América Central y América del Sur"
+        }
+      },
+      {
+        "nombre": "Canguro Rojo",
+        "especie": "Macropus rufus",
+        "habitat": "Praderas y desiertos",
+        "alimentación": "Herbívoro",
+        "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAljjovc5-QEpxahZPcSCEw28hhQP7RP_Q6af4Pt7_NaMelWUmdqQTbrT3LdAkSHFBHkzIDrBMV0MTqD6G_RsX13VbO-tXOdyIeQ_bbkDFG2UhgIbEensSDtTGNus9nU6PN9PU6z3sAsKZ/s1600/canguro-rojo-cr%C3%ADa.jpg",
+        "informacion_adicional": {
+          "promedio_vida": "10-20 años en la naturaleza",
+          "estado_conservacion": "Preocupación menor",
+          "distribucion": "Australia"
+        }
+      },
+      {
+        "nombre": "Orangután",
+        "especie": "Pongo pygmaeus",
+        "habitat": "Bosques tropicales",
+        "alimentación": "Frutas, hojas y pequeños animales",
+        "imagen": "https://d80g3k8vowjyp.cloudfront.net/img/orangutan_crias_87022.jpg",
+        "informacion_adicional": {
+          "promedio_vida": "35-45 años en la naturaleza",
+          "estado_conservacion": "En peligro crítico de extinción",
+          "distribucion": "Borneo y Sumatra"
+        }
+      },
+      {
+        "nombre": "Cebra",
+        "especie": "Equus quagga",
+        "habitat": "Sabanas y praderas",
+        "alimentación": "Herbívoro",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyoe1DsVEAFb5ver4gzS6s8S87ycUobxnMNg&s",
+        "informacion_adicional": {
+          "promedio_vida": "20-25 años en la naturaleza",
+          "estado_conservacion": "Preocupación menor",
+          "distribucion": "África subsahariana"
+        }
+      },
+      {
+        "nombre": "Suricata",
+        "especie": "Suricata suricatta",
+        "habitat": "Desiertos y zonas semidesérticas",
+        "alimentación": "Omnívoro",
+        "imagen": "https://52e8aec0e9.cbaul-cdnwnd.com/4d86878f3207fa8a83212f5d563ca2b0/200005491-db963db964/979c13424c065c83dee3d2d99af5dce3.jpeg?ph=52e8aec0e9",
+        "informacion_adicional": {
+          "promedio_vida": "10-14 años en la naturaleza",
+          "estado_conservacion": "Preocupación menor",
+          "distribucion": "África austral"
+        }
+      },
+      {
+        "nombre": "Pinguino Emperador",
+        "especie": "Aptenodytes forsteri",
+        "habitat": "Antártida",
+        "alimentación": "Peces y krill",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Emperor_Penguin_Manchot_empereur.jpg/170px-Emperor_Penguin_Manchot_empereur.jpg",
+        "informacion_adicional": {
+          "promedio_vida": "20 años en la naturaleza",
+          "estado_conservacion": "Preocupación menor",
+          "distribucion": "Antártida"
+        }
+      },
+      {
+        "nombre": "Leopardo de las Nieves",
+        "especie": "Panthera uncia",
+        "habitat": "Montañas y mesetas de Asia Central",
+        "alimentación": "Carnívoro",
+        "imagen": "https://files.worldwildlife.org/wwfcmsprod/images/Snow_Leopard_54146_magazine/story_full_width/7kskrtqm4r_MID_54146.jpg",
+        "informacion_adicional": {
+          "promedio_vida": "10-15 años en la naturaleza",
+          "estado_conservacion": "Vulnerable",
+          "distribucion": "Montañas de Asia Central"
+        }
+      },
+      {
+        "nombre": "Hipopótamo",
+        "especie": "Hippopotamus amphibius",
+        "habitat": "Ríos y lagos de África",
+        "alimentación": "Herbívoro",
+        "imagen": "https://www.worldanimalprotection.cr/cdn-cgi/image/fit=cover,width=800,format=auto/siteassets/article/gettyimages-1132841523.jpg",
+        "informacion_adicional": {
+          "promedio_vida": "40-50 años en la naturaleza",
+          "estado_conservacion": "Vulnerable",
+          "distribucion": "África subsahariana"
+        }
+      },
+      {
+        "nombre": "Gorila",
+        "especie": "Gorilla beringei / Gorilla gorilla",
+        "habitat": "Bosques tropicales y subtropicales",
+        "alimentación": "Principalmente vegetariano",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6V_fmH24IaXR4FifydJqA9xI8IgezW2MIzQ&s",
+        "informacion_adicional": {
+          "promedio_vida": "35-50 años en la naturaleza",
+          "estado_conservacion": "En peligro crítico de extinción",
+          "distribucion": "África central y occidental"
+        }
+      },
+      {
+        "nombre": "Cocodrilo del Nilo",
+        "especie": "Crocodylus niloticus",
+        "habitat": "Ríos, lagos y pantanos",
+        "alimentación": "Carnívoro",
+        "imagen": "https://okdiario.com/img/2019/12/06/como-es-el-cocodrilo-del-nilo.jpg",
+        "informacion_adicional": {
+          "promedio_vida": "70-100 años en la naturaleza",
+          "estado_conservacion": "Preocupación menor",
+          "distribucion": "África subsahariana"
+        }
+      },
+      {
+        "nombre": "Zorro Ártico",
+        "especie": "Vulpes lagopus",
+        "habitat": "Tundra ártica y regiones costeras",
+        "alimentación": "Omnívoro",
+        "imagen": "https://cdn0.bioenciclopedia.com/es/posts/3/8/9/zorro_artico_983_orig.jpg",
+        "informacion_adicional": {
+          "promedio_vida": "3-6 años en la naturaleza",
+          "estado_conservacion": "Preocupación menor",
+          "distribucion": "Ártico"
+        }
+      },
+      {
+        "nombre": "Búho Real",
+        "especie": "Bubo bubo",
+        "habitat": "Bosques y montañas",
+        "alimentación": "Carnívoro",
+        "imagen": "https://seo.org/wp-content/uploads/2013/11/F333_Foto_01.jpg",
+        "informacion_adicional": {
+          "promedio_vida": "10-20 años en la naturaleza",
+          "estado_conservacion": "Preocupación menor",
+          "distribucion": "Europa, Asia y África del Norte"
+        }
+      },
+      {
+        "nombre": "Murciélago Frugívoro",
+        "especie": "Artibeus jamaicensis",
+        "habitat": "Bosques tropicales y subtropicales",
+        "alimentación": "Frutas y néctar",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/52/Little_Red_Flying_Foxes.jpg",
+        "informacion_adicional": {
+          "promedio_vida": "10-20 años en la naturaleza",
+          "estado_conservacion": "Preocupación menor",
+          "distribucion": "América Central y del Sur"
+        }
+      },
+      {
+        "nombre": "Lince Ibérico",
+        "especie": "Lynx pardinus",
+        "habitat": "Dehesas y montes mediterráneos",
+        "alimentación": "Carnívoro",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqIm60R75E6YOSWq56uOmNnuUwJrZuT35Phg&s",
+        "informacion_adicional": {
+          "promedio_vida": "10-13 años en la naturaleza",
+          "estado_conservacion": "En peligro crítico de extinción",
+          "distribucion": "Península Ibérica"
+        }
+          }]
+}
+
+  

@@ -1,0 +1,318 @@
+{
+    "fruits": [
+    {
+        
+      "nombre": "Caqui","id": 52,"familia": "Ebenaceae","orden": "Rosales","género": "Diospyros",
+      "nutrición": {
+        "calorías": 81,
+        "grasa": 0,
+        "azúcar": 18,
+        "carbohidratos": 18,
+        "proteína": 0
+      },
+      "imagen": "https://i.ibb.co/0VbGfGf/caqui.png"
+    },
+    {
+      "nombre": "Fresa",
+      "id": 3,
+      "familia": "Rosaceae",
+      "orden": "Rosales",
+      "género": "Fragaria",
+      "nutrición": {
+        "calorías": 29,
+        "grasa": 0.4,
+        "azúcar": 5.4,
+        "carbohidratos": 5.5,
+        "proteína": 0.8
+      },
+      "imagen": "https://i.ibb.co/gdxKm9x/fresa.png"
+    },
+    {
+      "nombre": "Plátano",
+      "id": 1,
+      "familia": "Musaceae",
+      "orden": "Zingiberales",
+      "género": "Musa",
+      "nutrición": {
+        "calorías": 96,
+        "grasa": 0.2,
+        "azúcar": 17.2,
+        "carbohidratos": 22,
+        "proteína": 1
+      },
+      "imagen": "https://i.ibb.co/RCFv2Yb/platano.png"
+    },
+    {
+      "nombre": "Tomate",
+      "id": 5,
+      "familia": "Solanaceae",
+      "orden": "Solanales",
+      "género": "Solanum",
+      "nutrición": {
+        "calorías": 74,
+        "grasa": 0.2,
+        "azúcar": 2.6,
+        "carbohidratos": 3.9,
+        "proteína": 0.9
+      },
+      "imagen": "https://i.ibb.co/1R0TJRH/tomate.png"
+    },
+    {
+      "nombre": "Pera",
+      "id": 4,
+      "familia": "Rosaceae",
+      "orden": "Rosales",
+      "género": "Pyrus",
+      "nutrición": {
+        "calorías": 57,
+        "grasa": 0.1,
+        "azúcar": 10,
+        "carbohidratos": 15,
+        "proteína": 0.4
+      },
+      "imagen": "https://i.ibb.co/vVbFFxm/pera.png"
+    },
+    {
+      "nombre": "Durián",
+      "id": 60,
+      "familia": "Malvaceae",
+      "orden": "Malvales",
+      "género": "Durio",
+      "nutrición": {
+        "calorías": 147,
+        "grasa": 5.3,
+        "azúcar": 6.75,
+        "carbohidratos": 27.1,
+        "proteína": 1.5
+      },
+      "imagen": "https://i.ibb.co/CbLgfzQ/durian.png"
+    },
+    {
+      "nombre": "Mora",
+      "id": 64,
+      "familia": "Rosaceae",
+      "orden": "Rosales",
+      "género": "Rubus",
+      "nutrición": {
+        "calorías": 40,
+        "grasa": 0.4,
+        "azúcar": 4.5,
+        "carbohidratos": 9,
+        "proteína": 1.3
+      },
+      "imagen": "https://i.ibb.co/rkw7NyJ/mora.png"
+    },
+    {
+      "nombre": "Arándano rojo",
+      "id": 65,
+      "familia": "Ericaceae",
+      "orden": "Ericales",
+      "género": "Vaccinium",
+      "nutrición": {
+        "calorías": 50,
+        "grasa": 0.34,
+        "azúcar": 5.74,
+        "carbohidratos": 11.3,
+        "proteína": 0.75
+      },
+      "imagen": "https://i.ibb.co/Wnph3ZH/arandanos.png"
+    },
+    {
+      "nombre": "Kiwi",
+      "id": 66,
+      "familia": "Actinidiaceae",
+      "orden": "Struthioniformes",
+      "género": "Apteryx",
+      "nutrición": {
+        "calorías": 61,
+        "grasa": 0.5,
+        "azúcar": 9,
+        "carbohidratos": 15,
+        "proteína": 1.1
+      },
+      "imagen": "https://i.ibb.co/n69FnSt/kiwi.png"
+    },
+    {
+      "nombre": "Lichi",
+      "id": 67,
+      "familia": "Sapindaceae",
+      "orden": "Sapindales",
+      "género": "Litchi",
+      "nutrición": {
+        "calorías": 66,
+        "grasa": 0.44,
+        "azúcar": 15,
+        "carbohidratos": 17,
+        "proteína": 0.8
+      },
+      "imagen": "https://i.ibb.co/SnWFc9z/lichi.png"
+    },
+    {
+      "nombre": "Piña",
+      "id": 10,
+      "familia": "Bromeliaceae",
+      "orden": "Poales",
+      "género": "Ananas",
+      "nutrición": {
+        "calorías": 50,
+        "grasa": 0.12,
+        "azúcar": 9.85,
+        "carbohidratos": 13.12,
+        "proteína": 0.54
+      },
+      "imagen": "https://i.ibb.co/W0VzZ7f/pi-a.png"
+    },
+    {
+      "nombre": "Higo",
+      "id": 68,
+      "familia": "Moraceae",
+      "orden": "Rosales",
+      "género": "Ficus",
+      "nutrición": {
+        "calorías": 74,
+        "grasa": 0.3,
+        "azúcar": 16,
+        "carbohidratos": 19,
+        "proteína": 0.8
+      },
+      "imagen": "https://i.ibb.co/SyYgJzK/higo.png"
+    },
+    {
+      "nombre": "Grosella",
+      "id": 69,
+      "familia": "Grossulariaceae",
+      "orden": "Saxifragales",
+      "género": "Ribes",
+      "nutrición": {
+        "calorías": 44,
+        "grasa": 0.6,
+        "azúcar": 0,
+        "carbohidratos": 10,
+        "proteína": 0.9
+      },
+      "imagen": "https://i.ibb.co/z8QyHKR/grosella.png"
+    },
+    {
+      "nombre": "Maracuyá",
+      "id": 70,
+      "familia": "Passifloraceae",
+      "orden": "Malpighiales",
+      "género": "Passiflora",
+      "nutrición": {
+        "calorías": 97,
+        "grasa": 0.7,
+        "azúcar": 11.2,
+        "carbohidratos": 22.4,
+        "proteína": 2.2
+      },
+      "imagen": "https://i.ibb.co/Mh7Nxh0/maracuya.png"
+    },
+    {
+      "nombre": "Ciruela",
+      "id": 71,
+      "familia": "Rosaceae",
+      "orden": "Rosales",
+      "género": "Prunus",
+      "nutrición": {
+        "calorías": 46,
+        "grasa": 0.28,
+        "azúcar": 9.92,
+        "carbohidratos": 11.4,
+        "proteína": 0.7
+      },
+      "imagen": "https://i.ibb.co/wY8jvLk/ciruela.png"
+    },
+    {
+      "nombre": "Naranja",
+      "id": 2,
+      "familia": "Rutaceae",
+      "orden": "Sapindales",
+      "género": "Citrus",
+      "nutrición": {
+        "calorías": 43,
+        "grasa": 0.2,
+        "azúcar": 8.2,
+        "carbohidratos": 8.3,
+        "proteína": 1
+      },
+      "imagen": "https://i.ibb.co/t2tY4Kd/naranja.png"
+    },
+    {
+      "nombre": "Manzana verde",
+      "id": 72,
+      "familia": "Rosaceae",
+      "orden": "Rosales",
+      "género": "Malus",
+      "nutrición": {
+        "calorías": 52,
+        "grasa": 0.2,
+        "azúcar": 10.4,
+        "carbohidratos": 14,
+        "proteína": 0.3
+      },
+      "imagen": "https://i.ibb.co/m4KgLdR/manzanaverde.png"
+    },
+    {
+      "nombre": "Uva",
+      "id": 73,
+      "familia": "Vitaceae",
+      "orden": "Vitales",
+      "género": "Vitis",
+      "nutrición": {
+        "calorías": 69,
+        "grasa": 0.2,
+        "azúcar": 15.48,
+        "carbohidratos": 18.1,
+        "proteína": 0.7
+      },
+      "imagen": "https://i.ibb.co/y42LCCK/uvas.png"
+    },
+    {
+      "nombre": "Mango",
+      "id": 74,
+      "familia": "Anacardiaceae",
+      "orden": "Sapindales",
+      "género": "Mangifera",
+      "nutrición": {
+        "calorías": 60,
+        "grasa": 0.4,
+        "azúcar": 14.8,
+        "carbohidratos": 15,
+        "proteína": 0.8
+      },
+      "imagen": "https://i.ibb.co/V9cq6nc/mango.png"
+    },
+    {
+      "nombre": "Papaya",
+      "id": 75,
+      "familia": "Caricaceae",
+      "orden": "Brassicales",
+      "género": "Carica",
+      "nutrición": {
+        "calorías": 43,
+        "grasa": 0.3,
+        "azúcar": 5.9,
+        "carbohidratos": 10.8,
+        "proteína": 0.5
+      },
+      "imagen": "https://i.ibb.co/MpH61LS/papaya.png"
+    },
+    {
+      "nombre": "Sandía",
+      "id": 76,
+      "familia": "Cucurbitaceae",
+      "orden": "Cucurbitales",
+      "género": "Citrullus",
+      "nutrición": {
+        "calorías": 30,
+        "grasa": 0.15,
+        "azúcar": 6.2,
+        "carbohidratos": 7.5,
+        "proteína": 0.6
+      },
+      "imagen": "https://i.ibb.co/DVXBRkw/sandia.png"
+    }
+
+  ]
+}
+  
